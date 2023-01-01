@@ -34,10 +34,10 @@
 ```
 Mingu # Directory
     - 2023-01-01.md
-    - 2023-01-02.md
 Manny    
     - 2023-01-01.md
 Jiyoung
     - 2023-01-01.md
-    
+Seokhyeon
+    - 2023-01-01.md
 ```
