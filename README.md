@@ -45,5 +45,7 @@ Manny
 Jiyoung
     - 2023-01-01.md
 Seokhyeon
-    - 2023-01-01.md
+    - 2023-01-02.md
+Yujin
+    - 2023-01-02.md
 ```
