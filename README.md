@@ -49,5 +49,6 @@ Seokhyeon
     - 2023-01-02.md
 Yujin
     - 2023-01-02.md
-    
+SeungYeon
+    - 2023-01-03.md
 ```
